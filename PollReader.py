@@ -1,3 +1,9 @@
+'''
+Name: Jinghan Wu
+UMID: 77132944
+Email: kevinwuu@umich.edu
+'''
+
 import os
 import unittest
 
